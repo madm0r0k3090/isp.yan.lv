@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+title: "isp.yan.lv - я почти isp, но нифига не он"
+show_downloads: false
+description: "Здесь описание сайта"
+plugins:
+- jekyll-remote-theme
